@@ -7,7 +7,7 @@ export function Header(props: HeaderProps) {
     return (
         <header>
             <h1>{title}</h1>
-            <p>frontend + react + node.js</p>
+            <p>Наш перший frontend на react + type script</p>
         </header>
     )
 }
